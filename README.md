@@ -91,4 +91,4 @@ src/
 ## 👨‍💻 Pengembang
 
 - **Nama:** Muhammad Naufal
-- **Repo Backend:** /https://github.com/muunoooo/e-commerce-BE
+- **Repo Backend:** https://github.com/muunoooo/e-commerce-BE
